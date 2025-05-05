@@ -2,11 +2,11 @@
 
 This project explores binary classification techniques for predicting credit risk using the South German Credit Dataset from the UCI Machine Learning Repository.
 
-## 📊 Dataset
+## Dataset
 - **Source**: [South German Credit (Updated)](https://archive.ics.uci.edu/dataset/573/south+german+credit+update)
 - The dataset contains socio-economic and financial features used to assess creditworthiness.
 
-## 🔍 Project Overview
+## Project Overview
 - **Goal**: Predict whether a loan applicant is a credit risk (`good` or `bad`) based on customer data.
 - **Techniques Used**:
   - Data cleaning and preprocessing
@@ -19,7 +19,7 @@ This project explores binary classification techniques for predicting credit ris
   - Model comparison based on accuracy, precision, recall, and F1-score.
 
 ## Files
-- `credit_risk_model.ipynb`: Code and output notebook 
+- `credit_risk_model.html`: Code and output notebook (rendered as HTML)
 
 ## Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)

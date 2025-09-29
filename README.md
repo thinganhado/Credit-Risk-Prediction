@@ -20,6 +20,7 @@ This project explores binary classification techniques for predicting credit ris
 
 ## Files
 - `credit_risk_model`: Code and output notebook
+- `credit_risk_report`: Report on EDA findings and model performance
 
 ## Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)

@@ -19,7 +19,7 @@ This project explores binary classification techniques for predicting credit ris
   - Model comparison based on accuracy, precision, recall, and F1-score.
 
 ## Files
-- `credit_risk_model.html`: Code and output notebook (rendered as HTML)
+- `credit_risk_model`: Code and output notebook
 
 ## Tools & Libraries
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
